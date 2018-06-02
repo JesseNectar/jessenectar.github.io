@@ -1,0 +1,31 @@
+.coolTitle {
+  
+  font-family: futura, sans-serif;
+ padding: 10px;
+  
+}
+
+.addedItem{
+	font-style: bold
+	font-family: futura, sans-serif;
+	margin-left: 0px
+
+}
+
+.dltbtn{
+
+align-self: right;
+font-family: futura, sans-serif;
+color: red;
+margin-left: 3px;
+
+
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.finished{
+	margin:4px;
+}
